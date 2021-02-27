@@ -1,0 +1,45 @@
+.transactionHistory {
+  min-width: 500px;
+  border: 1px solid lawngreen;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.type__thead {
+  font-size: 20px;
+  padding: 10px;
+  background: rgb(245, 245, 77);
+}
+
+.amount__thead {
+  font-size: 20px;
+  padding: 10px;
+  background: rgba(245, 57, 198, 0.849);
+}
+
+.currency__thead {
+  font-size: 20px;
+  padding: 10px;
+  background: rgb(79, 173, 250);
+}
+
+.item__type {
+  font-size: 20px;
+  padding: 10px;
+  background: rgba(245, 245, 77, 0.5);
+}
+
+.item__amount {
+  font-size: 20px;
+  padding: 10px;
+  background: rgba(245, 57, 198, 0.411);
+}
+
+.item__currency {
+  font-size: 20px;
+  padding: 10px;
+  background: rgba(79, 173, 250, 0.377);
+}
